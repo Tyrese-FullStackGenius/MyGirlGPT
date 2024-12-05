@@ -1,4 +1,4 @@
-# MyGirlGPT - Your Personal AI Girlfriend Running on Your Personal Server
+# Virtual Girl Friend - Your Personal AI Girlfriend Running on Your Personal Server
 
 Welcome to the MyGirlGPT repository. This project allows you to build your personalized AI girlfriend with a unique personality, voice, and even selfies. The AI girlfriend runs on your personal server, giving you complete control and privacy.
 
