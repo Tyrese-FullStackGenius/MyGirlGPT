@@ -1,8 +1,8 @@
 # Virtual Girl Friend - Your Personal AI Girlfriend Running on Your Personal Server
 
-Welcome to the Virtual-Girl-Friend repository. This project allows you to build your personalized AI girlfriend with a unique personality, voice, and even selfies. The AI girlfriend runs on your personal server, giving you complete control and privacy.
+Welcome to the Virtual-Girl-Friend-GPT repository. This project allows you to build your personalized AI girlfriend with a unique personality, voice, and even selfies. The AI girlfriend runs on your personal server, giving you complete control and privacy.
 
-Virtual-Girl-Friend is AI agent deploy on the [OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS)
+Virtual-Girl-Friend-GPT is AI agent deploy on the [OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS)
 
 ## Demo
 Click the image below to watch a demo:
@@ -40,7 +40,7 @@ Click the image below to watch a demo:
 Now you can have fun chatting with your AI girl!!!
 
 
-## [How to Run Virtual-Girl-Friend in RunPod](docker/README.md)
+## [How to Run Virtual-Girl-Friend-GPT in RunPod](docker/README.md)
 
 https://github.com/Synthintel0/MyGirlGPT/assets/135929884/0484065f-e956-4ace-a8cd-315fadd67156
 
@@ -56,7 +56,7 @@ The model is [TehVenom/Pygmalion-Vicuna-1.1-7b](https://huggingface.co/TehVenom/
 * Selfie Generation: Your AI girlfriend is capable of generating photorealistic selfies upon request, powered by [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
 
 ## Roadmap
-* Long-Term Memory: Enable Virtual-Girl-Friend to "remember" conversations long-term, which will enhance the depth and continuity of your interactions.
+* Long-Term Memory: Enable Virtual-Girl-Friend-GPT to "remember" conversations long-term, which will enhance the depth and continuity of your interactions.
 * Video Messages: Your AI girlfriend will be able to send you videos of herself, providing a more immersive and engaging experience.
 * Discord Bot: Connect your AI girlfriend to Discord, expanding the platforms where you can interact with her.
 * LLM for SD prompts: Replacing GPT-3.5 with a local LLM to generate prompts for SD.
